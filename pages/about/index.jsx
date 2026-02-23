@@ -10,6 +10,7 @@ import {
   FaWordpress,
 } from "react-icons/fa";
 import {
+  SiAdobeillustrator,
   SiAdobephotoshop,
   SiAdobexd,
   SiFramer,
